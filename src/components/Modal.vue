@@ -24,7 +24,7 @@ export default {
 };
 </script>
 
-<style>
+<style scoped lang="scss">
 .border-bottom {
   border-bottom: 2px solid black;
 }
