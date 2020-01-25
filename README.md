@@ -21,5 +21,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ### Se ha utilizado
 
 [Quasar Framework](https://quasar.dev/) -- Para el tema visual y estilo --
+
 [moment.js](https://momentjs.com/) -- Para funciones relacionadas con fechas --
+
 [SASS](https://sass-lang.com/) -- Para sintaxis CSS --
